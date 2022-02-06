@@ -6,6 +6,6 @@ public class SkillDemoTest
 	@Test
 	public void testReturnZero()
 	{
-		assertEquals(1, SkillDemo.returnZero());
+		assertEquals(0, SkillDemo.returnZero());
 	}
 }
